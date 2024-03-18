@@ -1,10 +1,9 @@
-Nom du client:hadil rom
-Adresse:Rue
-Email:stephaneloiseaux@gmail.com 
-Telephone:075566
-Montant pret demandees:4000EUR 
-Duree de pret:ans 
-Revenu Mensuel:10EUR
-Depence Mensuelle:50EUR
-indicateur gaz et electricite:B
-
+    Nom du client:Houssem Halweni
+    Adresse:Rue
+    Email:stephaneloiseaux@gmail.com 
+    Telephone:075566
+    Montant pret demandees:4000EUR 
+    Duree de pret:ans 
+    Revenu Mensuel:10EUR
+    Depence Mensuelle:50EUR
+    indicateur gaz et electricite:C

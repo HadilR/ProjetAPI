@@ -252,5 +252,35 @@
         "Solvabilite": "Solvable",
         "evaluation propriete": "Bien evalue",
         "decision_approbation": "Positif"
+    },
+    "17": {
+        "Nom du client": "Houssem Halweni",
+        "Adresse": "Rue",
+        "Email": "stephaneloiseaux@gmail.com",
+        "Telephone": "075566",
+        "Montant pret demandees": "4000EUR",
+        "Duree de pret": "ans",
+        "Revenu Mensuel": "10EUR",
+        "Depence Mensuelle": "50EUR",
+        "indicateur gaz et electricite": "C",
+        "credit_score": 0.5,
+        "Solvabilite": "Non Solvable",
+        "evaluation propriete": "Bien evalue",
+        "decision_approbation": "Negatif"
+    },
+    "18": {
+        "Nom du client": "Houssem Halweni",
+        "Adresse": "Rue",
+        "Email": "stephaneloiseaux@gmail.com",
+        "Telephone": "075566",
+        "Montant pret demandees": "4000EUR",
+        "Duree de pret": "ans",
+        "Revenu Mensuel": "10EUR",
+        "Depence Mensuelle": "50EUR",
+        "indicateur gaz et electricite": "C",
+        "credit_score": 2.1999999999999997,
+        "Solvabilite": "Solvable",
+        "evaluation propriete": "Bien evalue",
+        "decision_approbation": "Positif"
     }
 }
